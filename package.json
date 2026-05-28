@@ -1,0 +1,16 @@
+{
+  "name": "she-can-contact-portal",
+  "version": "1.0.0",
+  "description": "A responsive contact webpage for She Can Foundation with validation and a lightweight Node.js backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ngo",
+    "contact-form",
+    "responsive-design"
+  ],
+  "author": "Prateek Jha",
+  "license": "MIT"
+}
