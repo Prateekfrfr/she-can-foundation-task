@@ -1,6 +1,6 @@
 # She Can Foundation Volunteer & Contact Portal
 
-A responsive full stack webpage created for the She Can Foundation internship task.
+A responsive full stack webpage created for the She Can Foundation.
 
 ## Features
 
